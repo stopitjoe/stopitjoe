@@ -2,5 +2,5 @@
 
 ## I am a beginner QA Engineer
 
-### Follow me:
+### Text me:
 [![Telegram](https://img.shields.io/badge/-@rzamorskiy-752A2D?style=for-the-badge&logo=telegram)](https://t.me/rzamorskiy)
